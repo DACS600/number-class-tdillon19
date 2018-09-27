@@ -1,0 +1,16 @@
+Tom Dillon
+
+Assignment:  Number Class
+Grade:  check+ (See Course Expectations for interpretation)
+
+
+1 – For an infinite loop while(YES) would be a preferable form.
+
+2 – Nice output and attention to details on the user interface.
+
+3 – You show a solid understanding of all the essential concepts of this assignment.  You went beyond expectations in several cases, like computing things iteratively and recursively.
+
+4 – For isPrime do not go all the way up to the number, at least stop halfway…maybe sooner.
+
+5 – You have some timing stuff in there, but you have commented it all out, why?
+
